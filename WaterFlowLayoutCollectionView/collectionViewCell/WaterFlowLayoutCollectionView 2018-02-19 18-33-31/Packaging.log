@@ -1,0 +1,372 @@
+2018-02-19 13:03:20 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fb3f423a980; archive(resolved)='<IDEArchive: 0x7fb3f361c220>', distributionTask(resolved)='2', distributionMethod(resolved)='<IDEDistributionMethodDevelopmentSigned: 0x7fb3f2e958b0>', team(resolved)='<IDEProvisioningBasicTeam 0x7fb3f363fe40: teamID: VPS9LBWQ55, teamName: Ravi Ranjan>'>
+	Chain (11, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fb3f423a980; archive = '<IDEArchive: 0x7fb3f361c220>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fb3f2e958b0>', team='<IDEProvisioningBasicTeam 0x7fb3f363fe40: teamID: VPS9LBWQ55, teamName: Ravi Ranjan>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fb3f3c80df0; archive = '<IDEArchive: 0x7fb3f361c220>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fb3f2e958b0>', team='<IDEProvisioningBasicTeam 0x7fb3f363fe40: teamID: VPS9LBWQ55, teamName: Ravi Ranjan>'>
+	<IDEDistributionContext: 0x7fb40a050cc0; archive = '<IDEArchive: 0x7fb3f361c220>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fb3f2e958b0>', team='<IDEProvisioningBasicTeam 0x7fb3f363fe40: teamID: VPS9LBWQ55, teamName: Ravi Ranjan>'>
+	<IDEDistributionContext: 0x7fb3f5100000; archive = '<IDEArchive: 0x7fb3f361c220>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fb3f2e958b0>', team='<IDEProvisioningBasicTeam 0x7fb3f363fe40: teamID: VPS9LBWQ55, teamName: Ravi Ranjan>'>
+	<IDEDistributionContext: 0x7fb3f3c209d0; archive = '<IDEArchive: 0x7fb3f361c220>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fb3f2e958b0>', team='<IDEProvisioningBasicTeam 0x7fb3f363fe40: teamID: VPS9LBWQ55, teamName: Ravi Ranjan>'>
+	<IDEDistributionContext: 0x7fb3f393f5e0; archive = '<IDEArchive: 0x7fb3f361c220>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fb3f2e958b0>', team='<IDEProvisioningBasicTeam 0x7fb3f363fe40: teamID: VPS9LBWQ55, teamName: Ravi Ranjan>'>
+	<IDEDistributionContext: 0x7fb3f3eedcb0; archive = '<IDEArchive: 0x7fb3f361c220>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fb3f2e958b0>', team='<IDEProvisioningBasicTeam 0x7fb3f363fe40: teamID: VPS9LBWQ55, teamName: Ravi Ranjan>'>
+	<IDEDistributionContext: 0x7fb3f39bf720; archive = '<IDEArchive: 0x7fb3f361c220>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fb3f2e958b0>', team='<IDEProvisioningBasicTeam 0x7fb3f363fe40: teamID: VPS9LBWQ55, teamName: Ravi Ranjan>'>
+	<IDEDistributionContext: 0x7fb3f3a17670; archive = '<IDEArchive: 0x7fb3f361c220>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fb3f2e958b0>', team='<IDEProvisioningBasicTeam 0x7fb3f363fe40: teamID: VPS9LBWQ55, teamName: Ravi Ranjan>'>
+	<IDEDistributionContext: 0x7fb3f3637fe0; archive = '<IDEArchive: 0x7fb3f361c220>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fb3f2e958b0>', team='(null)'>
+	<IDEDistributionContext: 0x7fb3f2697260; archive = '<IDEArchive: 0x7fb3f361c220>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fb3f423a980>
+2018-02-19 13:03:20 +0000  Processing step: IDEDistributionCreateDestRootStep
+2018-02-19 13:03:20 +0000  Processing step: IDEDistributionCopyItemStep
+2018-02-19 13:03:20 +0000  Running /usr/bin/ditto '-V' '/Users/veer_chauhan/Library/Developer/Xcode/Archives/2018-02-19/WaterFlowLayoutCollectionView 19-02-18, 6.32 PM.xcarchive/Products/Applications/WaterFlowLayoutCollectionView.app' '/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/XcodeDistPipeline.PFx/Root/Payload/WaterFlowLayoutCollectionView.app'
+2018-02-19 13:03:20 +0000  >>> Copying /Users/veer_chauhan/Library/Developer/Xcode/Archives/2018-02-19/WaterFlowLayoutCollectionView 19-02-18, 6.32 PM.xcarchive/Products/Applications/WaterFlowLayoutCollectionView.app 
+2018-02-19 13:03:20 +0000  copying file ./_CodeSignature/CodeResources ... 
+2018-02-19 13:03:20 +0000  6151 bytes for ./_CodeSignature/CodeResources
+2018-02-19 13:03:20 +0000  copying file ./veer.png ... 
+2018-02-19 13:03:20 +0000  221028 bytes for ./veer.png
+2018-02-19 13:03:20 +0000  copying file ./Base.lproj/Main.storyboardc/UINavigationController-7U4-Rq-9cg.nib ... 
+2018-02-19 13:03:20 +0000  1711 bytes for ./Base.lproj/Main.storyboardc/UINavigationController-7U4-Rq-9cg.nib
+2018-02-19 13:03:20 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2018-02-19 13:03:20 +0000  5493 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Base.lproj/Main.storyboardc/ips-Rn-Lly-view-dxs-Dv-6vT.nib ... 
+2018-02-19 13:03:20 +0000  6557 bytes for ./Base.lproj/Main.storyboardc/ips-Rn-Lly-view-dxs-Dv-6vT.nib
+copying file ./Base.lproj/Main.storyboardc/viewControllerNext.nib ... 
+2018-02-19 13:03:20 +0000  1027 bytes for ./Base.lproj/Main.storyboardc/viewControllerNext.nib
+copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2018-02-19 13:03:20 +0000  333 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2018-02-19 13:03:20 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2018-02-19 13:03:20 +0000  1136 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2018-02-19 13:03:20 +0000  832 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2018-02-19 13:03:20 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2018-02-19 13:03:20 +0000  copying file ./archived-expanded-entitlements.xcent ... 
+2018-02-19 13:03:20 +0000  432 bytes for ./archived-expanded-entitlements.xcent
+copying file ./WaterFlowLayoutCollectionView ... 
+2018-02-19 13:03:20 +0000  213264 bytes for ./WaterFlowLayoutCollectionView
+copying file ./embedded.mobileprovision ... 
+2018-02-19 13:03:20 +0000  7643 bytes for ./embedded.mobileprovision
+2018-02-19 13:03:20 +0000  copying file ./Info.plist ... 
+2018-02-19 13:03:20 +0000  1156 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+2018-02-19 13:03:20 +0000  8 bytes for ./PkgInfo
+2018-02-19 13:03:20 +0000  2018-02-19 13:03:20 +0000  2018-02-19 13:03:20 +0000  /usr/bin/ditto exited with 0
+
+
+2018-02-19 13:03:20 +0000  Processing step: IDEDistributionEmbedProfileStep
+2018-02-19 13:03:20 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2018-02-19 13:03:20 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2018-02-19 13:03:20 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2018-02-19 13:03:20 +0000  Running /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool '/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/XcodeDistPipeline.PFx/Root' '--json' '/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/ipatool-json-filepath-1NtLw8' '--compile-bitcode' '--output' '/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/IDEIPAProcessor.AppThinning.Zoh' '--toolchain' '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr' '--platforms' '/Applications/Xcode.app/Contents/Developer/Platforms'
+2018-02-19 13:03:20 +0000  ruby 2.3.3p222 (2016-11-21 revision 56859) [universal.x86_64-darwin17]
+2018-02-19 13:03:21 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1593: warning: assigned but unused variable - minVersion
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1593: warning: assigned but unused variable - sdkVersion
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1602: warning: assigned but unused variable - sourceVersion
+2018-02-19 13:03:21 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1703: warning: shadowing outer local variable - node
+2018-02-19 13:03:21 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2470: warning: shadowing outer local variable - machoFile
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2470: warning: shadowing outer local variable - machoImage
+2018-02-19 13:03:21 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2497: warning: key :hasBitcode is duplicated and overwritten on line 2499
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2662: warning: assigned but unused variable - flag
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2662: warning: assigned but unused variable - transformer
+2018-02-19 13:03:21 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2912: warning: assigned but unused variable - exc
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:738: warning: assigned but unused variable - output
+2018-02-19 13:03:21 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/libxml-ruby-2.9.0/lib/libxml/schema/type.rb:8: warning: method redefined; discarding old annotation
+2018-02-19 13:03:21 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/libxml-ruby-2.9.0/lib/libxml/schema/element.rb:18: warning: method redefined; discarding old annotation
+2018-02-19 13:03:21 +0000  OS X 10.13.3 17D47
+2018-02-19 13:03:21 +0000  ENV: {"PATH"=>"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin", "MallocNanoZone"=>"0", "TMPDIR"=>"/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/", "LOGNAME"=>"veer_chauhan", "XPC_FLAGS"=>"0x0", "HOME"=>"/Users/veer_chauhan", "Apple_PubSub_Socket_Render"=>"/private/tmp/com.apple.launchd.fEFqpW55P5/Render", "USER"=>"veer_chauhan", "SSH_AUTH_SOCK"=>"/private/tmp/com.apple.launchd.YSg2WH3ovZ/Listeners", "XPC_SERVICE_NAME"=>"com.apple.dt.Xcode.15820", "SHELL"=>"/bin/bash", "__CF_USER_TEXT_ENCODING"=>"0x1F5:0x0:0x0"}
+ARGV: ["/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/XcodeDistPipeline.PFx/Root", "--json", "/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/ipatool-json-filepath-1NtLw8", "--compile-bitcode", "--output", "/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/IDEIPAProcessor.AppThinning.Zoh", "--toolchain", "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr", "--platforms", "/Applications/Xcode.app/Contents/Developer/Platforms"]
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:101: warning: method redefined; discarding old to_h
+2018-02-19 13:03:21 +0000  warning: Configuration issue: platform WatchSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2018-02-19 13:03:21 +0000  Scanning IPA...
+2018-02-19 13:03:21 +0000  warning: Configuration issue: platform AppleTVSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+warning: Configuration issue: platform iPhoneSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2018-02-19 13:03:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature WaterFlowLayoutCollectionView
+2018-02-19 13:03:21 +0000      /usr/bin/python exited with pid 16048 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-02-19 13:03:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) veer.png WaterFlowLayoutCollectionView
+2018-02-19 13:03:21 +0000      /usr/bin/python exited with pid 16049 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-02-19 13:03:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Base.lproj WaterFlowLayoutCollectionView
+2018-02-19 13:03:21 +0000      /usr/bin/python exited with pid 16050 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-02-19 13:03:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) archived-expanded-entitlements.xcent WaterFlowLayoutCollectionView
+2018-02-19 13:03:21 +0000      /usr/bin/python exited with pid 16051 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-02-19 13:03:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) WaterFlowLayoutCollectionView WaterFlowLayoutCollectionView
+2018-02-19 13:03:21 +0000      /usr/bin/python exited with pid 16052 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-02-19 13:03:21 +0000  Complete LinkageGraph:
+    WaterFlowLayoutCollectionView.app/WaterFlowLayoutCollectionView arm64 ->
+2018-02-19 13:03:21 +0000  Validating IPA structure...
+2018-02-19 13:03:23 +0000  Compiling bitcode...
+2018-02-19 13:03:23 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool -v -t /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk -o /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/ipatool20180219-16013-zohtzf/thinned/arm64/Payload/WaterFlowLayoutCollectionView.app/WaterFlowLayoutCollectionView --generate-dsym /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/ipatool20180219-16013-zohtzf/thinned/arm64/Payload/WaterFlowLayoutCollectionView.app/WaterFlowLayoutCollectionView.dSYM --strip-swift-symbols /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/ipatool20180219-16013-zohtzf/thinned/arm64/Payload/WaterFlowLayoutCollectionView.app/WaterFlowLayoutCollectionView
+2018-02-19 13:03:23 +0000    Compiling bitcode for arm64...
+    Compiling arm64 bitcode in 'WaterFlowLayoutCollectionView'
+2018-02-19 13:03:24 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool exited with pid 16065 exit 0
+    Stdout:
+        Debug: SDK path: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk
+        Debug: PATH: ['/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin', '/Applications/Xcode.app/Contents/Developer/usr/bin']
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo
+        MachoInfo: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo" "-info" "/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/ipatool20180219-16013-zohtzf/thinned/arm64/Payload/WaterFlowLayoutCollectionView.app/WaterFlowLayoutCollectionView" 
+        -= Output =-
+        Non-fat file: /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/ipatool20180219-16013-zohtzf/thinned/arm64/Payload/WaterFlowLayoutCollectionView.app/WaterFlowLayoutCollectionView is architecture: arm64
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/ipatool20180219-16013-zohtzf/thinned/arm64/Payload/WaterFlowLayoutCollectionView.app/WaterFlowLayoutCollectionView" 
+        -= Output =-
+        UUID: 7A409558-2E20-38D4-A953-77FDFCD76DA4 (arm64) /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/ipatool20180219-16013-zohtzf/thinned/arm64/Payload/WaterFlowLayoutCollectionView.app/WaterFlowLayoutCollectionView
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit
+        ExtractXAR: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit" "/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/ipatool20180219-16013-zohtzf/thinned/arm64/Payload/WaterFlowLayoutCollectionView.app/WaterFlowLayoutCollectionView" "-extract" "__LLVM" "__bundle" "/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/WaterFlowLayoutCollectionViewExh49F/WaterFlowLayoutCollectionView.arm64.xar" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Bitcode bundle version: 1.0
+        Debug: Setting platform to: iPhoneOS
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+        Clang: cd /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/tempOcMXRe
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios11.2.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "1" "-o" "1.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/tempOcMXRe
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios11.2.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "2" "-o" "2.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/tempOcMXRe
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios11.2.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "3" "-o" "3.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/k7/yn68rd4d2kz7l_
+2018-02-19 13:03:24 +0000  cr14hgx3jm0000gn/T/tempOcMXRe
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios11.2.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "4" "-o" "4.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/tempOcMXRe
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios11.2.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "5" "-o" "5.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/tempOcMXRe
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios11.2.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "6" "-o" "6.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/tempOcMXRe
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios11.2.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "7" "-o" "7.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/tempOcMXRe
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios11.2.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "8" "-o" "8.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/tempOcMXRe
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios11.2.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "9" "-o" "9.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd
+        Ld: cd /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/tempOcMXRe
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" "-arch" "arm64" "-execute" "-ios_version_min" "11.2.0" "-e" "_main" "-rpath" "@executable_path/Frameworks" "-executable_path" "/Users/veer_chauhan/Library/Developer/Xcode/DerivedData/WaterFlowLayoutCollectionView-aetwrsftxrqyhpblzqcvv
+2018-02-19 13:03:24 +0000  zszznzw/Build/Intermediates.noindex/ArchiveIntermediates/WaterFlowLayoutCollectionView/InstallationBuildProductsLocation/Applications/WaterFlowLayoutCollectionView.app/WaterFlowLayoutCollectionView" "-dead_strip" "-syslibroot" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk" "-sdk_version" "11.2.0" "-filelist" "/private/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/WaterFlowLayoutCollectionViewExh49F/WaterFlowLayoutCollectionView.arm64.out.LinkFileList" "-ignore_auto_link" "-allow_dead_duplicates" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd" "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.ios.a" "-o" "/private/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/WaterFlowLayoutCollectionViewExh49F/WaterFlowLayoutCollectionView.arm64.out" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        warning: Cannot genarte useful dsym from input macho file: /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/ipatool20180219-16013-zohtzf/thinned/arm64/Payload/WaterFlowLayoutCollectionView.app/WaterFlowLayoutCollectionView
+        
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/ipatool20180219-16013-zohtzf/thinned/arm64/Payload/WaterFlowLayoutCollectionView.app/WaterFlowLayoutCollectionView" 
+        -= Output =-
+        UUID: 8EE34A4F-8A6C-32E8-9B0B-42C95BFB564C (arm64) /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/ipatool20180219-16013-zohtzf/thinned/arm64/Payload/WaterFlowLayoutCollectionView.app/WaterFlowLayoutCollectionView
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil
+        Dsymutil: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil" "/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/ipatool20180219-16013-zohtzf/thinned/arm64/Payload/WaterFlowLayoutCollectionView.app/WaterFlowLayoutCollectionView" "-o" "/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/ipatool20180219-16013-zohtzf/thinned/arm64/Payload/WaterFlowLayoutCollectionView.app/WaterFlowLayoutCollectionView.dSYM" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip
+        StripSymbols: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip" "/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/ipatool20180219-16013-zohtzf/thinned/arm64/Payload/WaterFlowLayoutCollectionView.app/WaterFlowLayoutCollectionView" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+    
+    Stderr:
+2018-02-19 13:03:24 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols -failIfMissingDsym -symbolsPackageDir /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/ipatool20180219-16013-zohtzf/thinned/arm64/Payload/WaterFlowLayoutCollectionView.app /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/ipatool20180219-16013-zohtzf/thinned/arm64/Payload/WaterFlowLayoutCollectionView.app/WaterFlowLayoutCollectionView
+2018-02-19 13:03:25 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with pid 16087 exit 0
+    Stdout:
+        /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/ipatool20180219-16013-zohtzf/thinned/arm64/Payload/WaterFlowLayoutCollectionView.app/WaterFlowLayoutCollectionView [arm64, 0.040752 seconds]:
+    
+    Stderr:
+2018-02-19 13:03:25 +0000  Creating universal IPA contents for all devices
+  Creating directory /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/IDEIPAProcessor.AppThinning.Zoh/universal
+  Copying WaterFlowLayoutCollectionView.app output payload directory
+2018-02-19 13:03:25 +0000  /Library/Ruby/Gems/2.3.0/gems/CFPropertyList-2.3.6/lib/cfpropertylist/rbCFPropertyList.rb:394: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-02-19 13:03:25 +0000    Copying .dSYM files to /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/IDEIPAProcessor.AppThinning.Zoh/universal/dSYMs
+  Copying .symbols files to /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/IDEIPAProcessor.AppThinning.Zoh/universal/Symbols
+2018-02-19 13:03:25 +0000  2018-02-19 13:03:25 +0000  
+
+2018-02-19 13:03:25 +0000  2018-02-19 13:03:25 +0000  
+
+2018-02-19 13:03:25 +0000  
+2018-02-19 13:03:25 +0000  2018-02-19 13:03:25 +0000  
+
+2018-02-19 13:03:25 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool exited with 0
+2018-02-19 13:03:25 +0000  
+2018-02-19 13:03:25 +0000  
+2018-02-19 13:03:25 +0000  ipatool JSON: {
+    alerts =     (
+                {
+            code = 2817;
+            description = "Configuration issue: platform WatchSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        },
+                {
+            code = 2817;
+            description = "Configuration issue: platform AppleTVSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        },
+                {
+            code = 2817;
+            description = "Configuration issue: platform iPhoneSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        }
+    );
+    thinnableAssetCatalogs =     (
+    );
+    universalIPA =     {
+        path = "/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/IDEIPAProcessor.AppThinning.Zoh/universal";
+    };
+}
+2018-02-19 13:03:25 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2018-02-19 13:03:25 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2018-02-19 13:03:25 +0000  Processing step: IDEDistributionSymbolsStep
+2018-02-19 13:03:25 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-02-19 13:03:25 +0000  Processing step: IDEDistributionAppThinningStep
+2018-02-19 13:03:25 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2018-02-19 13:03:25 +0000  Processing step: IDEDistributionODRStep
+2018-02-19 13:03:25 +0000  Processing step: IDEDistributionStripXattrsStep
+2018-02-19 13:03:25 +0000  Running /usr/bin/xattr '-crs' '/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/XcodeDistPipeline.PFx/Root/Payload/WaterFlowLayoutCollectionView.app'
+2018-02-19 13:03:25 +0000  
+2018-02-19 13:03:25 +0000  2018-02-19 13:03:25 +0000  /usr/bin/xattr exited with 0
+
+2018-02-19 13:03:25 +0000  
+2018-02-19 13:03:25 +0000  Processing step: IDEDistributionCodesignStep
+2018-02-19 13:03:25 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fb40a1dd0c0 'com.highBrowdelve.WaterFlowLayoutCollectionView' '<DVTFilePath:0x7fb3f3613d20:'/Users/veer_chauhan/Library/Developer/Xcode/Archives/2018-02-19/WaterFlowLayoutCollectionView 19-02-18, 6.32 PM.xcarchive/Products/Applications/WaterFlowLayoutCollectionView.app'>'> from <IDEiCloudEntitlementsProcessor: 0x7fb40d9ad0e0>: {
+}
+2018-02-19 13:03:25 +0000  Entitlements for <IDEDistributionItem: 0x7fb40a1dd0c0 'com.highBrowdelve.WaterFlowLayoutCollectionView' '<DVTFilePath:0x7fb3f3613d20:'/Users/veer_chauhan/Library/Developer/Xcode/Archives/2018-02-19/WaterFlowLayoutCollectionView 19-02-18, 6.32 PM.xcarchive/Products/Applications/WaterFlowLayoutCollectionView.app'>'>: {
+    "application-identifier" = "VPS9LBWQ55.com.highBrowdelve.WaterFlowLayoutCollectionView";
+    "com.apple.developer.team-identifier" = VPS9LBWQ55;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "VPS9LBWQ55.com.highBrowdelve.WaterFlowLayoutCollectionView"
+    );
+}
+2018-02-19 13:03:25 +0000  Writing entitlements for <IDEDistributionItem: 0x7fb40a1dd0c0 'com.highBrowdelve.WaterFlowLayoutCollectionView' '<DVTFilePath:0x7fb3f3613d20:'/Users/veer_chauhan/Library/Developer/Xcode/Archives/2018-02-19/WaterFlowLayoutCollectionView 19-02-18, 6.32 PM.xcarchive/Products/Applications/WaterFlowLayoutCollectionView.app'>'> to: /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/XcodeDistPipeline.PFx/entitlements78xYyb
+2018-02-19 13:03:25 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1C74D5CE4B126385C8186891122968B3141EE602' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/XcodeDistPipeline.PFx/entitlements78xYyb' '/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/XcodeDistPipeline.PFx/Root/Payload/WaterFlowLayoutCollectionView.app'
+2018-02-19 13:03:25 +0000  Warning: unable to build chain to self-signed root for signer "iPhone Developer: r.ranjanchn@icloud.com (QGB9A8N7MQ)"
+2018-02-19 13:03:25 +0000  /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/XcodeDistPipeline.PFx/Root/Payload/WaterFlowLayoutCollectionView.app: signed app bundle with Mach-O thin (arm64) [com.highBrowdelve.WaterFlowLayoutCollectionView]
+2018-02-19 13:03:25 +0000  2018-02-19 13:03:25 +0000  
+
+2018-02-19 13:03:25 +0000  
+2018-02-19 13:03:25 +0000  
+2018-02-19 13:03:25 +0000  
+2018-02-19 13:03:25 +0000  
+2018-02-19 13:03:25 +0000  
+2018-02-19 13:03:25 +0000  /usr/bin/codesign exited with 0
+2018-02-19 13:03:25 +0000  2018-02-19 13:03:25 +0000  
+
+2018-02-19 13:03:25 +0000  Processing step: IDEDistributionStreamingZipItemStep
+2018-02-19 13:03:25 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-02-19 13:03:25 +0000  Processing step: IDEDistributionCreateIPAStep
+2018-02-19 13:03:25 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/XcodeDistPipeline.PFx/Root' '/var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/XcodeDistPipeline.PFx/Packages/WaterFlowLayoutCollectionView.ipa'
+2018-02-19 13:03:25 +0000  >>> Copying /var/folders/k7/yn68rd4d2kz7l_cr14hgx3jm0000gn/T/XcodeDistPipeline.PFx/Root 
+2018-02-19 13:03:25 +0000  copying file ./Payload/WaterFlowLayoutCollectionView.app/_CodeSignature/CodeResources ... 
+2018-02-19 13:03:25 +0000  6151 bytes for ./Payload/WaterFlowLayoutCollectionView.app/_CodeSignature/CodeResources
+copying file ./Payload/WaterFlowLayoutCollectionView.app/veer.png ... 
+2018-02-19 13:03:25 +0000  221028 bytes for ./Payload/WaterFlowLayoutCollectionView.app/veer.png
+2018-02-19 13:03:25 +0000  copying file ./Payload/WaterFlowLayoutCollectionView.app/Base.lproj/Main.storyboardc/UINavigationController-7U4-Rq-9cg.nib ... 
+1711 bytes for ./Payload/WaterFlowLayoutCollectionView.app/Base.lproj/Main.storyboardc/UINavigationController-7U4-Rq-9cg.nib
+copying file ./Payload/WaterFlowLayoutCollectionView.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2018-02-19 13:03:25 +0000  5493 bytes for ./Payload/WaterFlowLayoutCollectionView.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/WaterFlowLayoutCollectionView.app/Base.lproj/Main.storyboardc/ips-Rn-Lly-view-dxs-Dv-6vT.nib ... 
+2018-02-19 13:03:25 +0000  6557 bytes for ./Payload/WaterFlowLayoutCollectionView.app/Base.lproj/Main.storyboardc/ips-Rn-Lly-view-dxs-Dv-6vT.nib
+copying file ./Payload/WaterFlowLayoutCollectionView.app/Base.lproj/Main.storyboardc/viewControllerNext.nib ... 
+2018-02-19 13:03:25 +0000  1027 bytes for ./Payload/WaterFlowLayoutCollectionView.app/Base.lproj/Main.storyboardc/viewControllerNext.nib
+2018-02-19 13:03:25 +0000  copying file ./Payload/WaterFlowLayoutCollectionView.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2018-02-19 13:03:25 +0000  333 bytes for ./Payload/WaterFlowLayoutCollectionView.app/Base.lproj/Main.storyboardc/Info.plist
+2018-02-19 13:03:25 +0000  copying file ./Payload/WaterFlowLayoutCollectionView.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2018-02-19 13:03:25 +0000  1136 bytes for ./Payload/WaterFlowLayoutCollectionView.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/WaterFlowLayoutCollectionView.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2018-02-19 13:03:25 +0000  832 bytes for ./Payload/WaterFlowLayoutCollectionView.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/WaterFlowLayoutCollectionView.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2018-02-19 13:03:25 +0000  258 bytes for ./Payload/WaterFlowLayoutCollectionView.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/WaterFlowLayoutCollectionView.app/archived-expanded-entitlements.xcent ... 
+2018-02-19 13:03:25 +0000  432 bytes for ./Payload/WaterFlowLayoutCollectionView.app/archived-expanded-entitlements.xcent
+2018-02-19 13:03:25 +0000  copying file ./Payload/WaterFlowLayoutCollectionView.app/WaterFlowLayoutCollectionView ... 
+2018-02-19 13:03:25 +0000  80528 bytes for ./Payload/WaterFlowLayoutCollectionView.app/WaterFlowLayoutCollectionView
+copying file ./Payload/WaterFlowLayoutCollectionView.app/embedded.mobileprovision ... 
+2018-02-19 13:03:25 +0000  7643 bytes for ./Payload/WaterFlowLayoutCollectionView.app/embedded.mobileprovision
+copying file ./Payload/WaterFlowLayoutCollectionView.app/Info.plist ... 
+2420 bytes for ./Payload/WaterFlowLayoutCollectionView.app/Info.plist
+copying file ./Payload/WaterFlowLayoutCollectionView.app/PkgInfo ... 
+8 bytes for ./Payload/WaterFlowLayoutCollectionView.app/PkgInfo
+2018-02-19 13:03:25 +0000  
+2018-02-19 13:03:25 +0000  
+2018-02-19 13:03:25 +0000  2018-02-19 13:03:25 +0000  /usr/bin/ditto exited with 0
+
+2018-02-19 13:03:25 +0000  
+2018-02-19 13:03:25 +0000  2018-02-19 13:03:25 +0000  Processing step: IDEDistributionCreateManifestStep
+
